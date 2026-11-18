@@ -56,7 +56,7 @@ Jika database `booking_wisata_baru` sudah berisi data, **jangan impor `database.
 3. Klik **Edit** pada destinasi atau isi form **Tambah Wisata**.
 4. Isi bagian **Kontak admin/pengelola wisata**:
    - Nama admin/pengelola.
-   - Nomor WhatsApp, bisa memakai format lokal seperti `081234567890` atau kode negara seperti `6281234567890`.
+   - Nomor WhatsApp, contoh `6281234567890` (gunakan kode negara, tanpa `+`, spasi, atau tanda baca).
    - Jam layanan, contoh `08.00–17.00 WIB`.
 5. Klik **Simpan wisata**.
 6. Buka detail destinasi tersebut. Kontaknya akan tampil di destinasi itu saja, dengan tombol **Hubungi Admin via WhatsApp**.
